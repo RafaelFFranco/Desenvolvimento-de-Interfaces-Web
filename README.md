@@ -1,1 +1,1 @@
-Esse é um site simples de uma receita de strogonoff feito para praticar a linguagem html
+Esse repositório foi feito para armazenar os projetos de desenvolvimento Web da Puc Minas
