@@ -1,0 +1,40 @@
+body{
+    background-color:burlywood;
+}
+.titulos{
+    font-size: 18px;
+    color:beige;
+}
+p{
+    font-size: 17px;   
+}
+.header-container {
+    overflow:hidden; /* Para evitar que o conteúdo flutuante cause problemas de layout */
+}
+
+.header-info {
+    float: left; /* Para alinhar à esquerda */
+    margin-right: 20px; /* Espaçamento entre a imagem e o texto */
+}
+.header-info h1 {
+     margin-bottom: 0px; /* Espaçamento entre o nome e o resumo */
+}
+
+.header-info p {
+    margin: 0; /* Remover margens padrão */
+}
+
+.header-img {
+    float: left; /* Para alinhar à esquerda */
+    margin-right: 20px; /* Espaçamento entre a imagem e o texto */
+    width: 200px;
+}
+.link{
+    color:brown;
+}
+.titulos-centro{
+    text-align: center;
+    margin-top: 0;
+    font-size: 18px;
+    color:beige;
+}
