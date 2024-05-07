@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+.titulo{
+    margin: 10px;
+}
+.form-control{
+    margin-top: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    padding-left: 5px;
+    height: 20px;
+}
+.container{
+    margin-left: 10px;
+}
+button{
+    margin-top: 10px;
+    background-color: gainsboro;
+    padding: 2px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.botoes{
+    margin-left: 10px; ;
+}
+p{
+    margin-left: 10px;
+}
+
+select{
+    border: 2px solid;
+    border-radius: 5px;
+}

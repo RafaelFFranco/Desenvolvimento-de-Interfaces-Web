@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="jquery-3.7.1.min.js"></script>
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h1 class="titulo">Conversor de Moedas</h1>
+
+    <p>INSIRA UM VALOR</p>
+    
+    <div class="container">
+        <div>
+            <label for="valorReais"></label>
+            <input type="text" class="form-control" id="valorReais" placeholder="Digite um valor em R$">
+
+            <select name="select" id="moedas" onchange="selectMoeda()">
+                <option value="valor1">Dólar</option>
+                <option value="valor2">Euro</option>
+                <option value="valor3">Libra Esterlina</option>
+                <option value="valor4">Iene</option>
+                <option value="valor5">Franco Suíço</option>
+            </select>
+        </div>
+        <div>
+            
+            
+            <label for="valorConvertido"></label>
+            <input type="text" class="form-control" id="valorConvertido" placeholder="Valor convertido">
+            <div id="pintoDuro"></div>
+        </div>
+        <button id="botao">Converter</button>
+    </div>
+
+    
+
+
+    <script src="index.js"></script>
+</body>
+
+</html>
