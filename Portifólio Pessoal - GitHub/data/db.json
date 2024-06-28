@@ -1,0 +1,28 @@
+{
+    "colegas": [
+        {
+            "id": 1,
+            "url_foto": "https://avatars.githubusercontent.com/u/160606558?v=4",
+            "nome": "Rafael Augusto",
+            "url_github": "https://github.com/RRafaelMMiranda"
+        },
+        {
+            "id": 2,
+            "url_foto": "https://avatars.githubusercontent.com/u/161331547?v=4",
+            "nome": "Victor Veiga",
+            "url_github": "https://github.com/vitorveigas"
+        },
+        {
+            "id": 3,
+            "url_foto": "https://avatars.githubusercontent.com/u/164031890?v=4",
+            "nome": "Enzo Casaes",
+            "url_github": "https://github.com/enzocases"
+        },
+        {
+            "id": 4,
+            "url_foto": "https://avatars.githubusercontent.com/u/161534687?v=4",
+            "nome": "Thomas",
+            "url_github": "https://github.com/Thomasramos02"
+        }
+    ]
+}
